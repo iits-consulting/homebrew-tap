@@ -3,7 +3,7 @@ class OtcAuth < Formula
   homepage "https://github.com/iits-consulting/otc-auth"
   url "https://github.com/iits-consulting/otc-auth.git",
       tag:      "v2.1.1",
-     revision: "49f101f3a4d59455bb102f24aba7c2842c801f00"
+     revision: "ea0ffb3987787a4a03a1b321a54e691c23725505"
   license "GPLv3"
   head "https://github.com/iits-consulting/otc-auth.git", branch: "main"
   depends_on "bash" => :build
