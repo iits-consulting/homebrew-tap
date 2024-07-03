@@ -2,8 +2,8 @@ class OtcAuth < Formula
   desc "Open Source CLI for the Open Telekom Cloud written in go"
   homepage "https://github.com/iits-consulting/otc-auth"
   url "https://github.com/iits-consulting/otc-auth.git",
-      tag:      "v2.1.1",
-     revision: "edf2331731b32d822615a0a6b72089e347cf7631"
+      tag:      "v2.1.2",
+     revision: "dc8c527817f8b6aa6d7cef6c10e6686daf4de19e"
   license "GPLv3"
   head "https://github.com/iits-consulting/otc-auth.git", branch: "main"
   depends_on "bash" => :build
